@@ -7,12 +7,13 @@ MSSA, and tensor decompositions along with accompanying plotting and statistical
 
 
 ## Build status
-
 [![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
 
 ## Code style
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-green.svg)](https://www.python.org/dev/peps/pep-0008/)
+
+All versions should adhere to the latest [Semantic Versioning](https://semver.org/) guidelines.
  
 ## Screenshots
 
