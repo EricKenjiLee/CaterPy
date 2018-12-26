@@ -3,7 +3,7 @@ This is an analysis package made for the application of spectral decompositions 
 
 ## Motivation
 This package is meant to help provide a set of tools for use in analyzing data using spectral decompositions beginning with SSA,
-MSSA, and tensor decompositions along with accompanying plotting and statistical testing tools. On a personal note, this is supposed
+MSSA, and tensor decompositions along with accompanying plotting and statistical testing tools. On a personal note, this is supposed to serve as a running example of proper software development practices for my future projects.
 
 
 ## Build status
