@@ -5,7 +5,7 @@ This is an analysis package made for the application of spectral decompositions 
 This package is meant to help provide a set of tools for use in analyzing data using spectral decompositions beginning with SSA,
 MSSA, and TSSA along with accompanying plotting and statistical testing tools. On a personal note, this is supposed to serve as a running example of proper software development practices for my future projects.
 
-Much of the inspiration for this project comes from the [RSSA package](https://github.com/asl/rssa) by Alexander Shlemov and Anton Korobeynikov and also the [pySSA](https://github.com/aj-cloete/pySSA) project by AJ Cloete.
+Much of the inspiration for this project comes from the [RSSA](https://github.com/asl/rssa) package by Alexander Shlemov and Anton Korobeynikov and also the [pySSA](https://github.com/aj-cloete/pySSA) project by AJ Cloete.
 
 
 ## Build status
