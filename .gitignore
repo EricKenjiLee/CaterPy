@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# PyCharm project settings
+.idea/
+
+#Brain Observatory SDK
+boc/

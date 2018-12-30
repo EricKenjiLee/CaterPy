@@ -7,6 +7,13 @@ verify_ssl = true
 
 [packages]
 pandas = "*"
+matplotlib = "*"
+numpy = "*"
+sklearn = "*"
+scipy = "*"
+allensdk = "*"
+ipython = "*"
+notebook = "*"
 
 [requires]
 python_version = "3.6"
