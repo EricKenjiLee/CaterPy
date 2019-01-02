@@ -34,3 +34,11 @@ def Hankelize(X):
         return HX.T
     else:
         return HX
+
+def synthesize_data(n_timepoints,T,SNR):
+    t = np.array(range(n_timepoints))
+    X = np.sin(2 * np.pi * t / T)
+    noise = SNR * np.random.randn(len(X))
+
+    X = X + noise
+    return X
