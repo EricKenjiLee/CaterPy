@@ -11,7 +11,7 @@ This package gets its name from the alternate name for SSA (as it was independen
 
 
 ## Build status
-[![CircleCI](https://circleci.com/gh/EricKenjiLee/PySpec/tree/master.svg?style=svg)](https://circleci.com/gh/EricKenjiLee/CaterPy/tree/master)
+[![CircleCI](https://circleci.com/gh/EricKenjiLee/CaterPy/tree/master.svg?style=svg)](https://circleci.com/gh/EricKenjiLee/CaterPy/tree/master)
 
 ## Code style
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-green.svg)](https://www.python.org/dev/peps/pep-0008/)
