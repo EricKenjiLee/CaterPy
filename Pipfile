@@ -7,6 +7,9 @@ verify_ssl = true
 
 [packages]
 pandas = "*"
+matplotlib = "*"
+ipykernel = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.6"
