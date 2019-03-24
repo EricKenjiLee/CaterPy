@@ -124,3 +124,7 @@ class SSA(object):
         # self.RCs = self._reconstruction(self.PCs,W)
 
         return None
+
+class MSSA(object):
+    def __init__(self, TimeSeries, L):
+        

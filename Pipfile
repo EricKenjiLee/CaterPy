@@ -10,6 +10,7 @@ pandas = "*"
 matplotlib = "*"
 ipykernel = "*"
 sklearn = "*"
+sphinx = "*"
 
 [requires]
 python_version = "3.6"
